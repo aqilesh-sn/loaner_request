@@ -7,14 +7,14 @@
         <hint/>
         <name/>
         <order/>
-        <roles>x_cdltd_loaner_req.loan_requester_user</roles>
+        <roles>x_cdltd_loaner_req.loan_requester_user,x_cdltd_loaner_req.admin</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-25 15:41:13</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e2ce17c958ff00107f4440285527cd71</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Loaner Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">253d5b8958ff00107f4440285527cd27</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Loaner Request">253d5b8958ff00107f4440285527cd27</sys_scope>
         <sys_update_name>sys_app_application_e2ce17c958ff00107f4440285527cd71</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-25 15:41:13</sys_updated_on>
+        <sys_updated_on>2020-03-26 14:53:50</sys_updated_on>
         <title>Loaner Request</title>
         <view_name/>
     </sys_app_application>
